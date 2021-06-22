@@ -18,8 +18,8 @@
 # Follow good logical naming convention
 ```python
 
-First_Name = "Shahrukh"
-Last_Name  = "Khan"
+First_Name = "Prathima"
+Last_Name  = "Joginipelly"
 ```
 - Let's create a variable to store int value
 ```python
